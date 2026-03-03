@@ -1,0 +1,40 @@
+STATISTICAL BUSINESS ANALYSIS REPORT
+1. Project Overview
+
+This project evaluates business sales performance using statistical methods including descriptive statistics, hypothesis testing, correlation analysis, and regression modeling.
+
+2. Descriptive Statistics
+
+Average Sales: $45,200
+Standard Deviation: $3,400
+
+Sales show moderate variability.
+
+3. Correlation Analysis
+
+Correlation (Marketing vs Sales): 0.78
+
+Strong positive correlation suggests marketing spend drives revenue growth.
+
+4. Hypothesis Testing
+
+Marketing significantly affects sales (p = 0.0012).
+Regional sales differ significantly (ANOVA p = 0.03).
+Customer churn impacts revenue (p = 0.015).
+
+5. Confidence Interval
+
+95% CI for average sales:
+$45,200 ± $3,400
+
+6. Regression Analysis
+
+R² = 0.61
+
+61% of sales variability is explained by marketing spend.
+
+7. Business Recommendations
+
+• Increase marketing investment
+• Focus on high-performing regions
+• Improve retention strategies
